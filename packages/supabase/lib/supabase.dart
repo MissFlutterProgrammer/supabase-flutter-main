@@ -2,7 +2,7 @@
 /// and listen for realtime changes. This client makes it simple for developers
 /// to build secure and scalable products.
 ///
-library supabase;
+library;
 
 export 'package:functions_client/functions_client.dart';
 export 'package:gotrue/gotrue.dart';

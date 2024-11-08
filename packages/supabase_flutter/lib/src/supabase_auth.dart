@@ -2,7 +2,6 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:io' show Platform;
 import 'dart:math';
-
 import 'package:app_links/app_links.dart';
 import 'package:async/async.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;

@@ -1,6 +1,4 @@
 import 'dart:async';
-import 'dart:developer' as dev;
-
 import 'package:async/async.dart';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart';
@@ -10,7 +8,6 @@ import 'package:supabase_flutter/src/constants.dart';
 import 'package:supabase_flutter/src/flutter_go_true_client_options.dart';
 import 'package:supabase_flutter/src/local_storage.dart';
 import 'package:supabase_flutter/src/supabase_auth.dart';
-
 import 'version.dart';
 
 final _log = Logger('supabase.supabase_flutter');
